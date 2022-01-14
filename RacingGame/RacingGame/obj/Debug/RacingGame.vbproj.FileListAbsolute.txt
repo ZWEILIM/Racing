@@ -1,0 +1,11 @@
+C:\Program Files (x86)\Study\Intern\Hotayi\Project\RacingGame\RacingGame\bin\Debug\RacingGame.exe
+C:\Program Files (x86)\Study\Intern\Hotayi\Project\RacingGame\RacingGame\bin\Debug\RacingGame.pdb
+C:\Program Files (x86)\Study\Intern\Hotayi\Project\RacingGame\RacingGame\bin\Debug\RacingGame.xml
+C:\Program Files (x86)\Study\Intern\Hotayi\Project\RacingGame\RacingGame\obj\Debug\RacingGame.vbprojAssemblyReference.cache
+C:\Program Files (x86)\Study\Intern\Hotayi\Project\RacingGame\RacingGame\obj\Debug\RacingGame.Form1.resources
+C:\Program Files (x86)\Study\Intern\Hotayi\Project\RacingGame\RacingGame\obj\Debug\RacingGame.Resources.resources
+C:\Program Files (x86)\Study\Intern\Hotayi\Project\RacingGame\RacingGame\obj\Debug\RacingGame.vbproj.GenerateResource.cache
+C:\Program Files (x86)\Study\Intern\Hotayi\Project\RacingGame\RacingGame\obj\Debug\RacingGame.vbproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Study\Intern\Hotayi\Project\RacingGame\RacingGame\obj\Debug\RacingGame.exe
+C:\Program Files (x86)\Study\Intern\Hotayi\Project\RacingGame\RacingGame\obj\Debug\RacingGame.xml
+C:\Program Files (x86)\Study\Intern\Hotayi\Project\RacingGame\RacingGame\obj\Debug\RacingGame.pdb
